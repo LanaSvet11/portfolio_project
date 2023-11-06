@@ -1,0 +1,29 @@
+[
+  {
+    "role": "Senior Software Engineer",
+    "organisation": "Google",
+    "startDate": "December, 2027",
+    "endDate": "Present",
+    "experiences": ["Worked on Google AI", "Reduced load times by 50%"],
+    "imageSrc": "history/google.png"
+  },
+  {
+    "role": "Software Engineer",
+    "organisation": "Mirosoft",
+    "startDate": "May, 2024",
+    "endDate": "Nov, 2027",
+    "experiences": ["Worked on Windows 11", "Designed the control panel"],
+    "imageSrc": "history/microsoft.png"
+  },
+  {
+    "role": "SWE Intern",
+    "organisation": "Netflix",
+    "startDate": "Dec, 2023",
+    "endDate": "Mar, 2024",
+    "experiences": [
+      "Worked on component library",
+      "Helped create UI components"
+    ],
+    "imageSrc": "history/netflix.png"
+  }
+]

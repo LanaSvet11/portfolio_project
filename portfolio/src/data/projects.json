@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Task manager with a real-time clock display.",
+    "imageSrc": "projects/project1.png",
+    "description": "This web application allows users to add, complete, prioritize, and filter tasks.",
+    "skills": ["HTML", "CSS", "Java Script"],
+    "demo": "https://lanasvet11.github.io/MOD1-Project/",
+    "source": "https://github.com/LanaSvet11/MOD1-Project.git"
+  },
+  {
+    "title": "The MoviesDB web application",
+    "imageSrc": "projects/project2.png",
+    "description": "This is go-to platform for exploring and enjoying your favorite movies.",
+    "skills": ["React", "Node", "API", "Bootstrap", "Java Script"],
+    "demo": "https://mod2-project.onrender.com/",
+    "source": "https://github.com/LanaSvet11/MOD2-Project/tree/master"
+  },
+  {
+    "title": "Project 3",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node", "MangoDB"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]
